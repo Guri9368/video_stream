@@ -236,10 +236,7 @@ Output directory: dist
 
 Add environment variable:
 
-text
-VITE_API_BASE_URL=https://your-backend-host.com/api
-Deploy and open the frontend URL.
-
+ 
 📌 Known Limitations
 Sensitivity analysis is a simplified demonstration, not a production ML pipeline.
 
@@ -249,8 +246,4 @@ Streaming logic is implemented with HTTP range support; minor integration issues
 This project is built as an educational / assignment project.
 Feel free to fork and adapt for learning purposes.
 
-text
-
-***
-
-If you tell the repo name and final backend/frontend URLs later, this README can be tweaked with exact links and screenshots sections.
+ 
